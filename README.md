@@ -11,23 +11,18 @@
 * 全家桶 [XAMPP](https://www.apachefriends.org/zh_cn/index.html) [MAMP](https://www.mamp.info/en/downloads/)
 * 容器 [Docker](https://github.com/caojiabin2012/docker-php-environment)
 
-
 ## 对字符串的操作
-* [官方手册]()
+* [官方手册](http://php.net/manual/zh/book.strings.php)
 * [实例]()
 
 ## 对文件的操作
-* [官方手册]()
+* [官方手册](http://php.net/manual/zh/book.filesystem.php)
 * [实例]()
 
 ## 常用数组函数
-* [官方手册]()
+* [官方手册](http://php.net/manual/zh/ref.array.php)
 * [实例]()
 
 ## PDO操作数据库
-* [官方手册]()
-* [实例]()
-
-## namespace使用
-* [官方手册]()
+* [官方手册](http://php.net/manual/zh/book.pdo.php)
 * [实例]()
